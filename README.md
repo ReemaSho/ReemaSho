@@ -23,7 +23,7 @@ Timezone: Europe/Amsterdam (CEST)
 <p>:eyes: I’m currently learning ... everything I need to filling my gaps to become a better programmer.</p>
 <p>:raising_hand: I’m looking to collaborate with ... Open Source.</p>
 <p>:speech_balloon: Ask me about anything related to... Fashion and design.</p>
-<p>:ghost: Fun fact: ... I studied Enfhish literature, but I am now a selftaught developer. </p>
+<p>:ghost: Fun fact: ... I studied English literature, but now I am a selftaught developer. </p>
 
 <br />
 <br />
